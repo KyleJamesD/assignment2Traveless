@@ -123,7 +123,17 @@ namespace Assignment2.Components.Pages.Data
             // and update the record in the reservation.csv file  
             // ...................................
 
-            File.WriteAllLines(Reservation_TXT, lines);
+            for (int i = 0; i < lines.Count; i++)    
+            {
+                var parts = lines[i].Split(",");   //divided parts with ,
+                if (parts[0] == res.Code && parts[6] == "Active")      //if parts[0] Code equals to the resevation code, and status is active, then cancelled
+                {
+                    parts[6] = "Cancelled";
+                    lines[i] = string.Join(",", parts);                //join parts using , then update
+                    File.WriteAllLines(Reservation_TXT, lines);
+                    break;
+                }
+            }
         }
     }
 }
