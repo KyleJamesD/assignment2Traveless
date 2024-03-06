@@ -43,6 +43,14 @@ namespace Assignment2.Components.Pages.Data
                 {
                     found.Add(reservation);
                 }
+                else if (reservation.Airline.Contains(airline))
+                {
+                    found.Add(reservation);
+                }
+                else if (reservation.Name.Contains(name))
+                {
+                    found.Add(reservation);
+                }
                 // TODO
                 // add a case to get reservation by Name   
                 // add a case to get reservation by Airline   
