@@ -185,16 +185,43 @@
         {
             foreach (var res in reservations)
             {
-                if (((inputResCode != "") && (inputResCode.ToUpper() == res.Code.ToUpper())) &&
-                    ((inputAirline != "") && (inputAirline.ToUpper() == res.Airline.ToUpper())) &&
-                    ((inputName != "") && (inputName.ToUpper() == res.Name.ToUpper())))
+                // This code was commented out to accomodate different implementation of this function
+                // if (((inputResCode != "") && (inputResCode.ToUpper() == res.Code.ToUpper())) &&
+                //     ((inputAirline != "") && (inputAirline.ToUpper() == res.Airline.ToUpper())) &&
+                //     ((inputName != "") && (inputName.ToUpper() == res.Name.ToUpper())))
+                // {
+                //     NewReservation = new Reservation(res.Code, res.FlightCode, res.Airline, res.Cost, res.Name, res.Citizenship, res.Active);
+                //     resNew.Add(NewReservation);
+                // }
+                // TODO
+                // add other cases to be able to find flight by code and/or name and/or airline
+                // ...................................
+
+                // This boolean will keep track if the search conditions are still satisfied
+                bool searchCondition = true;
+
+                // Check if the reservation code is entered and if the current record is equal to the input
+                if ((inputResCode != "") && (inputResCode.ToUpper() != res.Code.ToUpper()))
+                {
+                    searchCondition = false;
+                }
+                // Check if the airline is entered and if the current record is equal to the input
+                else if ((inputAirline != "") && (inputAirline.ToUpper() != res.Airline.ToUpper()))
+                {
+                    searchCondition = false;
+                }
+                // Check if the name is entered and if the current record is equal to the input
+                else if ((inputName != "") && (inputName.ToUpper() != res.Name.ToUpper()))
+                {
+                    searchCondition = false;
+                }
+
+                // If the search condition is true, it means all search filters were satisfied and the record should be added to the resNew list
+                if (searchCondition)
                 {
                     NewReservation = new Reservation(res.Code, res.FlightCode, res.Airline, res.Cost, res.Name, res.Citizenship, res.Active);
                     resNew.Add(NewReservation);
                 }
-                // TODO
-                // add other cases to be able to find flight by code and/or name and/or airline
-                // ...................................
             }
         }
         else
