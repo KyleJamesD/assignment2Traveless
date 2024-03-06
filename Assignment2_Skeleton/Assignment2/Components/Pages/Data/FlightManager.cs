@@ -52,7 +52,7 @@ namespace Assignment2.Components.Pages.Data
         // TODO
         // define the airports file path  
         // ...................................
-        public static string AIRPORTS_TEXT = "";    // TODO (Update the path)
+        public static string AIRPORTS_TEXT = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\..\..\Resources\Files\airports.csv");    // TODO (Update the path)
 
         public static List<Flight> flights = new List<Flight>();
         public static List<string> airports = new List<string>();
@@ -127,13 +127,89 @@ namespace Assignment2.Components.Pages.Data
         {
             List<Flight> found = new List<Flight>();
 
-           // TODO
-           // find all flights that match the input arguments  
-           // ...................................
+            // TODO
+            // find all flights that match the input arguments  
+            // ...................................
+            if (from == WEEKDAY_ANY && to == WEEKDAY_ANY && weekday == WEEKDAY_ANY) // To search for All flight
+            {
+                return flights;
+            }
 
-            return found;
+            else if (from == WEEKDAY_ANY && weekday == WEEKDAY_ANY) // To search for all flights "To one airport" from anywhere
+            {
+                foreach (Flight flight in flights)
+                {
+                    if (flight.To == to)
+                    { found.Add(flight); }
+                }
+                return found;
+            }
+
+            else if (to == WEEKDAY_ANY && weekday == WEEKDAY_ANY) // To search for All flights "From one airport" to anywhere
+            {
+                foreach (Flight flight in flights)
+                {
+                    if (flight.From == from)
+                    { found.Add(flight); }
+                }
+                return found;
+            }
+
+            else if (to == WEEKDAY_ANY && from == WEEKDAY_ANY) // To search for All flights on a "specific Day" to any location 
+            {
+                foreach (Flight flight in flights)
+                {
+                    if (flight.Weekday == weekday)
+                    { found.Add(flight); }
+
+                }
+                return found;
+            }
+            else if (from == WEEKDAY_ANY) // To search for All flights to a specific location on a specific day 
+            {
+                foreach (Flight flight in flights)
+                {
+                    if (flight.To == to && flight.Weekday == weekday)
+                    { found.Add(flight); }
+
+                }
+                return found;
+            }
+            else if (to == WEEKDAY_ANY) // To search for All flights from a specific location on a specific day
+            {
+                foreach (Flight flight in flights)
+                {
+                    if (flight.From == from && flight.Weekday == weekday)
+                    { found.Add(flight); }
+
+                }
+                return found;
+            }
+            else if (weekday == WEEKDAY_ANY) // so search for all flights from a specific locations to a specififc location for any day.
+            {
+                foreach (Flight flight in flights)
+                {
+                    if (flight.From == from && flight.To == to)
+                    { found.Add(flight); }
+
+                }
+                return found;
+            }
+
+            else
+            {
+                foreach (Flight flight in flights) // To search for a specific flight "from" "to" and on a "specfific day"
+                {
+                    if (flight.From == from && flight.To == to && flight.Weekday == weekday)
+                    { found.Add(flight); }
+                }
+                return found;
+            }
+        
+
         }
 
+        /**
         /**
          * Populates flights ArrayList with Flight objects from CSV file.
          */

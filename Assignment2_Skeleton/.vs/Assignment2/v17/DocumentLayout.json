@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\",
+  "WorkspaceRootPath": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|c:\\users\\abdel\\onedrive - southern alberta institute of technology\\sait\\courses\\cprg2011_a\u0026b\\assignments_and_project\\assignements\\assignment2\\assignment2_solution\\assignment2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\assignment2\\components\\pages\\data\\flightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\assignment2\\components\\pages\\data\\flightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\data\\flightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\assignment2\\components\\pages\\reservations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|c:\\users\\kyled\\desktop\\github\\assignment2traveless\\assignment2_skeleton\\assignment2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\assignment2\\components\\pages\\reservations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\reservations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\assignment2\\components\\pages\\flights.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\assignment2\\components\\pages\\flights.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\flights.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\assignment2\\components\\pages\\data\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\assignment2\\components\\pages\\data\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\data\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\assignment2\\components\\pages\\data\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\assignment2\\components\\pages\\data\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\data\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Flights.razor",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Flights.razor",
+              "DocumentMoniker": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Flights.razor",
               "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Flights.razor",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Flights.razor",
+              "ToolTip": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Flights.razor",
               "RelativeToolTip": "Assignment2\\Components\\Pages\\Flights.razor",
               "ViewState": "AQIAACcBAAAAAAAAAADwvzcBAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -51,24 +51,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FlightManager.cs",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Data\\FlightManager.cs",
+              "DocumentMoniker": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\FlightManager.cs",
               "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Data\\FlightManager.cs",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Data\\FlightManager.cs",
+              "ToolTip": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\FlightManager.cs",
               "RelativeToolTip": "Assignment2\\Components\\Pages\\Data\\FlightManager.cs",
-              "ViewState": "AQIAALIAAAAAAAAAAAAawGEAAAAJAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwDEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T18:08:08.868Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Reservations.razor",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Reservations.razor",
+              "DocumentMoniker": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Reservations.razor",
               "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Reservations.razor",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Reservations.razor",
+              "ToolTip": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Reservations.razor",
               "RelativeToolTip": "Assignment2\\Components\\Pages\\Reservations.razor",
               "ViewState": "AQIAAHwAAAAAAAAAAAAAwJUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -79,9 +80,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ReservationManager.cs",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Data\\ReservationManager.cs",
+              "DocumentMoniker": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\ReservationManager.cs",
               "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Data\\ReservationManager.cs",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Data\\ReservationManager.cs",
+              "ToolTip": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\ReservationManager.cs",
               "RelativeToolTip": "Assignment2\\Components\\Pages\\Data\\ReservationManager.cs",
               "ViewState": "AQIAAFsAAAAAAAAAAAAawIMAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Assignment2\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAUAAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-24T22:19:48.674Z",
               "EditorCaption": ""
@@ -105,9 +106,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Flight.cs",
-              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Data\\Flight.cs",
+              "DocumentMoniker": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\Flight.cs",
               "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Data\\Flight.cs",
-              "ToolTip": "C:\\Users\\abdel\\OneDrive - Southern Alberta Institute of Technology\\SAIT\\Courses\\CPRG2011_A\u0026B\\Assignments_and_Project\\Assignements\\Assignment2\\Assignment2_Solution\\Assignment2\\Components\\Pages\\Data\\Flight.cs",
+              "ToolTip": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\Flight.cs",
               "RelativeToolTip": "Assignment2\\Components\\Pages\\Data\\Flight.cs",
               "ViewState": "AQIAAHUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

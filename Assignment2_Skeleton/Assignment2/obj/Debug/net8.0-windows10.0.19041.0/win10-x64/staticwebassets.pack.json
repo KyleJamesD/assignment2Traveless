@@ -1,28 +1,32 @@
 {
   "Files": [
     {
-      "Id": "C:\\Abdelrahman\\CSharpe_Code_Trails\\Assignment2\\Assignment2\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Assignment2.styles.css",
+      "Id": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Assignment2.styles.css",
       "PackagePath": "staticwebassets\\Assignment2.styles.css"
     },
     {
-      "Id": "C:\\Abdelrahman\\CSharpe_Code_Trails\\Assignment2\\Assignment2\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Abdelrahman\\CSharpe_Code_Trails\\Assignment2\\Assignment2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Abdelrahman\\CSharpe_Code_Trails\\Assignment2\\Assignment2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Abdelrahman\\CSharpe_Code_Trails\\Assignment2\\Assignment2\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Abdelrahman\\CSharpe_Code_Trails\\Assignment2\\Assignment2\\wwwroot\\index.html",
+      "Id": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kyled\\Desktop\\Github\\assignment2Traveless\\Assignment2_Skeleton\\Assignment2\\wwwroot\\traveless_logo.png",
+      "PackagePath": "staticwebassets\\traveless_logo.png"
     },
     {
       "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Assignment2.Microsoft.AspNetCore.StaticWebAssets.props",
